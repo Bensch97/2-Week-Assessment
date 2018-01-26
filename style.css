@@ -24,8 +24,6 @@
     font-style: normal;
 }
 
-/* Main elements of the page */
-
 body
 {
     background: url('images/yellow_background.png');
@@ -45,7 +43,6 @@ section h1, footer h1, nav a
     font-weight: normal;
     text-transform: uppercase;
 }
-/* Header */
 
 header
 {
@@ -78,8 +75,6 @@ header h2
     font-weight: normal;
 }
 
-/* Navigation */
-
 nav
 {
     display: inline-block;
@@ -111,8 +106,6 @@ nav a:hover
     color: #760001;
     border-bottom: 3px solid #760001;
 }
-
-/* Banner */
 
 #banner_image
 {
@@ -161,8 +154,6 @@ nav a:hover
 {
     border: 0;
 }
-
-/* Body */
 
 article, aside
 {
@@ -221,8 +212,6 @@ aside img
 {
     margin-right: 5px;
 }
-
-/* Footer */
 
 footer
 {
